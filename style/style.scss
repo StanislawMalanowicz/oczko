@@ -1,0 +1,16 @@
+.main{
+  width: 100vw;
+  // height: 50vh;
+  // border: solid;
+  display: flex;
+  justify-content: center;
+  .image-container{
+    // height: 100px;
+    width: 80px;
+    // background: blue;
+    margin: 1px;
+    .card-picture{
+      width: 100%;
+    }
+  }
+}
